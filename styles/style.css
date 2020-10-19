@@ -1,0 +1,46 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40.42px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    width: 870px;
+}
+.blog img{
+    width: 177px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 12px;
+    width: 252.42px;
+    height: 290px;
+}
+.card-footer{
+    border-top: none;
+    background-color: #FFF;
+}
+.card-footer img{
+    width: 12.39px;
+}
+.btn img{
+    width: 19px;
+}
+.btn{
+    background-color: #FFE4E8;
+    color: coral;
+    border-radius: 14px;
+}
+.brand-logo{
+    margin-left: 330px;
+}
+.top-menu{
+    margin-right: 220px;
+}
+.top{
+     color: #562EFF;
+}
